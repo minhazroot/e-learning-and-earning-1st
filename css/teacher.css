@@ -21,6 +21,20 @@ body {
 
 }
 
+.teachar {
+    display: flex;
+    padding-left: 100px;
+}
+
+.teachar .div_1 {
+
+    border-bottom: 2px solid greenyellow;
+    text-align: center;
+    margin: 50px;
+    box-shadow: 5px 15px #9de2b179;
+
+}
+
 footer h2 a {
     text-decoration: none;
     padding-top: 30px;
