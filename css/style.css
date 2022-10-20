@@ -21,6 +21,17 @@ body {
 
 }
 
+#fast_div h2 {
+    text-align: center;
+    color: orange;
+
+}
+
+#artical {
+    text-align: center;
+
+}
+
 footer h2 a {
     text-decoration: none;
     padding-top: 30px;
