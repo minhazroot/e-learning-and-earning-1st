@@ -21,9 +21,28 @@ body {
 
 }
 
+#img_galary {
+    display: flex;
+
+}
+
+#img_galary .mk img {
+    height: 500px;
+    width: 80%;
+}
+
 #fast_div h2 {
     text-align: center;
     color: orange;
+
+}
+
+#fast_div img {
+
+    height: 600px;
+    width: 80%;
+    margin: 0 10%;
+    border: 1px solid black;
 
 }
 
