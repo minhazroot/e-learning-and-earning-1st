@@ -27,7 +27,7 @@ body {
 }
 
 #img_galary .mk img {
-    height: 500px;
+    height: 300px;
     width: 80%;
 }
 
@@ -39,7 +39,7 @@ body {
 
 #fast_div img {
 
-    height: 600px;
+    height: 300px;
     width: 80%;
     margin: 0 10%;
     border: 1px solid black;
