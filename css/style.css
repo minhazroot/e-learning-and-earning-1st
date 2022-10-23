@@ -15,6 +15,13 @@ body {
 
 }
 
+#nevacation_bur a:hover {
+    background-color: blueviolet;
+    color: red;
+
+}
+
+
 #nevacation_bur h1 {
     display: inline;
 
@@ -39,7 +46,7 @@ body {
 
 #fast_div img {
 
-    height: 300px;
+    height: 500px;
     width: 80%;
     margin: 0 10%;
     border: 1px solid black;
